@@ -2,4 +2,4 @@
 
 # Flapry-Birb
 
-My first ever game. "Flappy bird" style game mane in Unity
+My first ever game. "Flappy bird" style game made in Unity.

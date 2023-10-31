@@ -4,8 +4,8 @@
 
 My first ever game. "Flappy bird" style game made in Unity.
 
-Play it [here](https://connect-slide-121.itch.io/flapry-blirb)
+Play [here](https://connect-slide-121.itch.io/flapry-blirb)
 
-![alt text](https://github.com/Connectslide121/Flapry-Birb/blob/master/Gameplay.png)
+![alt text](https://github.com/Connectslide121/Flapry-Birb/blob/master/Easy.png)
 
-![alt text](https://github.com/Connectslide121/Flapry-Birb/blob/master/GameOver.png)
+![alt text](https://github.com/Connectslide121/Flapry-Birb/blob/master/Hard.png)

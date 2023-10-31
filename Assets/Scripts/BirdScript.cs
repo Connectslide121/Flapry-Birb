@@ -10,6 +10,7 @@ public class BirdScript : MonoBehaviour
     public float flapStrength;
     public LogicScript score;
     public static bool birdIsAlive = true;
+    public AudioClip JumpSound;
 
 
     // Start is called before the first frame update
@@ -25,6 +26,7 @@ public class BirdScript : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Mouse0) == true && birdIsAlive == true)
         {
             birdBody.velocity = Vector2.up * flapStrength;
+            Camera.main.GetComponent<AudioSource>().PlayOneShot(JumpSound);
         }
     }
 
